@@ -3,7 +3,5 @@ A flutter project that allows the user to control the mouse in linux using xdoto
 # Prerequisite
 install xdotool 
 ````
-```
 sudo apt install xdotool
-```
 ````
